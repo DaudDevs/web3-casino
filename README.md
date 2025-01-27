@@ -3,7 +3,7 @@
 <h2 align="center">Aapanel/Cpanel/Plesk Casino Server Configuration Guide</h2>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/zeusbyte/goldsvet/main/slot.png" alt="OSS Casino" width="50%">
+    <img src="slot.png" alt="Haiv Casino" width="50%">
 </p>
 
 <p align="center">
